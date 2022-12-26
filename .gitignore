@@ -98,7 +98,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+docs/
 downloads/
 eggs/
 .eggs/
